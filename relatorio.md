@@ -65,7 +65,16 @@ Portanto, o Pong posiciona-se como um jogo envolvente devido a sua dinâmica de 
 *Cada membro da dupla deve responder individualmente:*  
 
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
-2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
+
+*Rafael Cabral: a digitalização do concept foi um dos maiores desafios, já que estou em um processo de introdução da ferramenta figma.*
+
+*Paulo Vitor: o processo de imaginar algo diferente partindo de uma base já definida foi desafiador, mas a partir do momento que você define uma referência de como e onde você deseja chegar com sua ideia o desenvolvimento se torna mais fácil.*
+   
+2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+
+*Rafael Cabral: sobre a parte técina, em contraponto ao meu maior desafio, surgiu uma capacitação em usar o figma para a criação do protótipo da nossa ideia. Já em sentido pessoal, de início não tinha dupla e cogitei em fazer o trabalho individualmente, até que encontrei o Paulo Vitor que estava na mesma situação, de cara decidimos fazer juntos e conseguimos desenvolver um trabalho coletivo muito proveitoso, sendo a comunicação o pilar fundamental para o sucesso desse trabalho juntos.*
+
+*Paulo Vitor: a capacidade de pesquisa e análise de materiais informativos foi fundamental para o desenvolvimento do relatório, assim como para enquadrar nossas ideias de maneira adequada com a atividade proposta. Ademais, o processo criativo, como o desenvolvimento da concept art e do relatório, requisitou-me a habilidade de transcrever informações para o papel ou documento de maneira organizada e produtiva, seja por texto ou desenho. Por fim, a oportunidade de trabalhar em equipe em um projeto de curto prazo possibilitou que eu e minha dupla desenvolvessemos nossas habilidades de comunicação assertiva e cooperação, de modo que conseguimos entregar um trabalho adequado sem nenhuma divergência, bem como desenvolver nossa amizade.*
 
 ---
 
