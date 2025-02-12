@@ -38,7 +38,7 @@ Portanto, o Pong posiciona-se como um jogo envolvente devido a sua dinâmica de 
 
 
 
-*Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
+*![Imagem da concept aet do Futpongue](assets/concept.png)*
 
 ---
 
