@@ -2,7 +2,7 @@
 
 
 ## 1. Introdução  
-*O objetivo da atividade “reinventando o pong” consiste em explorar a concepção de jogos a partir da análise de um jogo base. Sendo assim, por meio do estudo das mecânicas, dinâmicas e estética do clássico Pong, pode-se elaborar concept arts de um jogo semelhante, mas com inovações e elementos novos que o tornam diferente. Com base nessa lógica, escolhemos mesclar componentes do Pong com a brincadeira popular “Centroavante”, frequentemente praticada nas quadras de futsal brasileiras, a fim de construir um jogo divertido e diferenciado.*
+*O objetivo da atividade “reinventando o pong” consiste em explorar a concepção de jogos a partir da análise de um jogo base. Sendo assim, por meio do estudo das mecânicas, dinâmicas e estética do clássico Pong, pode-se elaborar concept arts de um jogo semelhante, mas com inovações e elementos novos que o tornam diferente. Com base nessa lógica, escolhemos mesclar componentes do Pong com a brincadeira o esporte popular Futebol, frequentemente praticado no Brasil, a fim de construir um jogo divertido e diferenciado.*
  
 ---
 
@@ -36,9 +36,10 @@ Portanto, o Pong posiciona-se como um jogo envolvente devido a sua dinâmica de 
 
 *O Futpongue busca deixar o jogo mais convidativo ao usuário, uma vez que futebol é um esporte popular no Brasil e de cara, muitos desenvolverão um apego pela familiaridade com o tema. Além disso, a mudança na mecânica que permite o usuário controlar a barra (chuteira no futpongue) e também a barreira de jogadores, resulta em um desafio mais interessante, considerando que novas estratégias precisarão ser pensadas para sucesso em atacar e defender.*
 
+### 3.1. Concept Art
+*A concept art do Futepongue foi desenvolvida visando à reimaginação dos elementos tradicionais do Pong com base nos itens que compõe o futebol, bem como à introdução de uma nova mecânica com as barreiras.*
 
-
-*![Imagem da concept aet do Futpongue](assets/concept.png)*
+*![Imagem da concept art do Futpongue](assets/concept.png)*
 
 ---
 
