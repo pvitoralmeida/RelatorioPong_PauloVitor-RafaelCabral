@@ -2,7 +2,7 @@
 
 
 ## 1. Introdução  
-*O objetivo da atividade “reinventando o pong” consiste em explorar a concepção de jogos a partir da análise de um jogo base. Sendo assim, por meio do estudo das mecânicas, dinâmicas e estética do clássico Pong, pode-se elaborar concept arts de um jogo semelhante, mas com inovações e elementos novos que o tornam diferente. Com base nessa lógica, escolhemos mesclar componentes do Pong com a brincadeira o esporte popular Futebol, frequentemente praticado no Brasil, a fim de construir um jogo divertido e diferenciado.*
+*O objetivo da atividade “reinventando o pong” consiste em explorar a concepção de jogos a partir da análise de um jogo base. Sendo assim, por meio do estudo das mecânicas, dinâmicas e estética do clássico Pong, pode-se elaborar concept arts de um jogo semelhante, mas com inovações e elementos novos que o tornam diferente. Com base nessa lógica, escolhemos mesclar componentes do Pong com o esporte popular Futebol, frequentemente praticado no Brasil, a fim de construir um jogo divertido e diferenciado.*
  
 ---
 
